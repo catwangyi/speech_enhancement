@@ -1,0 +1,3 @@
+[06/09 16:08:39 cpu.config_parser INFO]: Args is saved to work_dir\runtime_config.yaml.
+[06/09 16:08:39 cpu.misc INFO]: Got invalid seed: -1, will use the randomly generated seed: 940021669
+[06/09 16:08:39 cpu.misc INFO]: Set random seed to 940021669.
